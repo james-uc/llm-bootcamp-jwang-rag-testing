@@ -1,0 +1,9 @@
+llama-index
+llama-index-vector-stores-weaviate
+llama-index-embeddings-openai
+weaviate-client
+python-dotenv
+openai 
+langsmith
+jupyter
+weaviate
